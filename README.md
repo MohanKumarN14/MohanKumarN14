@@ -19,12 +19,16 @@ I'm Mohan, I create some stuff that i would like share with you
 ![Data Wrangling](https://img.shields.io/badge/Data_Wrangling-db61a2?style=flat-square)
 ![Visualization](https://img.shields.io/badge/Visualization-f78166?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-2ea043?style=flat-square)
+
+
+
+
+
+
+
 ![Statistics and Math](https://img.shields.io/badge/Statistics_and_Math-0e7c86?style=flat-square)
 ![DSA](https://img.shields.io/badge/DSA-d29922?style=flat-square)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square) 
-
-
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
