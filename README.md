@@ -2,7 +2,7 @@
 
 I'm Mohan, I create some stuff that i would like share with you
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=700&height=35&lines=I%27m+Moha%2C+an+aspiring+Data+Scientist;Python+%7C+Pandas+%7C+Data+Science+%7C+SQL+%7C+Database" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=700&height=35&lines=I%27m+Mohan%2C+an+aspiring+Data+Scientist;Python+%7C+Pandas+%7C+Data+Science+%7C+SQL+%7C+Database" alt="Typing animation" />
 
 <img src="https://img.shields.io/badge/Open_to-Data_Scientist_%7C_Data_Analyst_%7C_Software_Developer_%7C_Business_Analyst-2ea44f?style=flat-square" alt="Open to roles" />
 
@@ -21,7 +21,10 @@ I'm Mohan, I create some stuff that i would like share with you
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-2ea043?style=flat-square)
 ![Statistics and Math](https://img.shields.io/badge/Statistics_and_Math-0e7c86?style=flat-square)
 ![DSA](https://img.shields.io/badge/DSA-d29922?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square) 
+
+
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
