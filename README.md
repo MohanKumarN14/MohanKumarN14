@@ -6,6 +6,8 @@ I'm Mohan, I create some stuff that i would like share with you
 
 <img src="https://img.shields.io/badge/Open_to-Data_Scientist_%7C_Data_Analyst_%7C_Business_Analyst_%7C_Software_Developer-2ea44f?style=flat-square" alt="Open to roles" />
 
+Passionate about transforming raw data into actionable business strategies and insights. Specializing in high-performance analytics pipelines and converting complex data meshes into clean decision intelligence.
+
 ## Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=py,java,sklearn,aws,git,github,vscode&perline=9" alt="Languages and tools" />
