@@ -10,17 +10,7 @@ I'm Mohan, I create some stuff that i would like share with you
 
 <img src="https://skillicons.dev/icons?i=py,java,sklearn,aws,git,github,vscode&perline=9" alt="Languages and tools" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" alt="Pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL" />
-<img src="https://img.shields.io/badge/Databases-336791?style=flat-square" alt="Databases" />
-<img src="https://img.shields.io/badge/DBMS-F29111?style=flat-square" alt="DBMS" />
-<img src="https://img.shields.io/badge/Cloud-FF9900?style=flat-square" alt="Cloud" />
-
-## 🎯 Specialties
+## Specialties
 
 <div align="center">
 
@@ -31,5 +21,12 @@ I'm Mohan, I create some stuff that i would like share with you
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-2ea043?style=flat-square)
 ![Statistics and Math](https://img.shields.io/badge/Statistics_and_Math-0e7c86?style=flat-square)
 ![DSA](https://img.shields.io/badge/DSA-d29922?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![Databases](https://img.shields.io/badge/Databases-336791?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-F29111?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-FF9900?style=flat-square)
 
 </div>
