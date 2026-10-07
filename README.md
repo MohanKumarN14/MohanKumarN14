@@ -1,24 +1,5 @@
 ## Hi there 👋
 I'm Mohan, I create some stuff that i would like share with you
-<!-- ============ HEADER BANNER ============ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Moha&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descAlignY=58&descSize=22" width="100%" alt="Moha banner" />
-
-<!-- ============ RUNNING LETTERS (typing animation) ============ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=750&height=50&lines=Hi%2C+I%27m+Moha;Aspiring+Data+Analyst;Python+%7C+Pandas+%7C+Data+Science;CSE+Student+%40+Sri+Krishna+College+of+Technology" alt="Typing animation" />
-
-<br/>
-
-<!-- ============ STATUS BADGES ============ -->
-<img src="https://img.shields.io/badge/Open_to-Data_Analyst_Roles-2ea44f?style=for-the-badge" alt="Open to Data Analyst roles" />
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
-
----
-
-## Hi there 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=650&height=35&lines=I%27m+Moha%2C+an+aspiring+Data+Analyst;Python+%7C+Pandas+%7C+Data+Science;CSE+Student+from+Chennai%2C+India" alt="Typing animation" />
 
@@ -29,30 +10,6 @@ I'm Mohan, I create some stuff that i would like share with you
 <img src="https://skillicons.dev/icons?i=py,java,numpy,pandas,matplotlib,sklearn,git,github,vscode&perline=9" alt="Languages and tools" />
 
 <!-- Add more icons later by extending the i= list, e.g. ...,mysql,powerbi,postgres,linux -->
-
-## 👋 About Me
-
-- 🎓 B.E. Computer Science & Engineering @ **Sri Krishna College of Technology**, Coimbatore
-- 📍 Based in **Chennai**, India
-- 📊 Turning raw data into clear insights — targeting **Data Analyst** roles
-- 🔭 Currently working on: advanced retail sector analytics (team project, in progress)
-- 🌱 Learning: **DSA** and **time & space complexity**, going deeper into Data Science & AI
-- ☕ Background in **Java**, now building strong **Python** skills
-- 💬 Speaks **Tamil** & English
-
----
-
-## 🛠️ Languages & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,java,numpy,pandas,matplotlib,sklearn,git,github,vscode&perline=9" alt="Languages and tools" />
-
-</div>
-
-<!-- Add more later, e.g. i=...,mysql,powerbi,postgres,linux -->
-
----
 
 ## 🎯 Specialties
 
