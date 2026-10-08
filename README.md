@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mohan, I create some stuff that i would like share with you
+I'm Mohan, I create some stuff that I would like to share with you.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=700&height=35&lines=An+aspiring+Data+Scientist;Python+%7C+Pandas+%7C+Data+Science+%7C+SQL+%7C+Database" alt="Typing animation" />
 
